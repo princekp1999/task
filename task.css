@@ -1,0 +1,211 @@
+.ml{
+    margin-left: 50px;
+    margin-bottom: -100px;
+    margin-top: 0px;
+    
+    
+}
+#aa{
+    margin-left: 450px;
+    margin-top: -10px;
+    text-decoration: none;
+
+
+}
+#a2{
+    margin-left: 520px;
+    margin-top: -24px;
+    text-decoration: none;
+
+
+}
+#a3{
+    margin-left: 590px;
+    margin-top: -23px;
+    text-decoration: none;
+
+
+}
+#a4{
+    margin-left: 690px;
+    margin-top: -23px;
+    text-decoration: none;
+
+
+}
+#a5{
+    margin-left: 760px;
+    margin-top: -25px;
+    text-decoration: none;
+    
+
+
+}
+#a6{
+    margin-left: 850px;
+    margin-top: -25px;
+    text-decoration: none;
+
+
+}
+.cc{ 
+    
+    width: 700px; height: 10px;
+    background-color: rgb(255, 0, 43);
+    margin-top: -450px;
+    color: rgb(84, 22, 138);
+    padding-left: 100px;
+}
+#c1{
+    
+    width: 600px; height: 100px;
+    background-color: rgb(255, 0, 43);
+    margin-top:100px;
+    color: rgb(84, 22, 138);
+    padding-left: 100px;
+
+}
+.c3{
+    width: 500px;
+    font-style: bold;
+    margin-left: 100px;
+    margin-top: -50px;
+    color: rgb(5, 0, 0);
+}
+#btn{
+    background-color: blueviolet;
+    color:white;
+    border-radius: 50px;
+    border: 0;
+    box-sizing: 100px;
+
+}
+.bt{
+    margin-left: 100px;
+}
+
+.pm{
+
+    margin-top: 300px;
+    
+
+}
+#tb{
+    margin: auto;
+    margin-top: 5%;
+    position: relative;
+    width: 300px;
+    height: 42px;
+    border: 0ch;
+
+
+}
+.sb{
+    border: 100px;
+    width: 600px;
+    height: 50px;
+    align-items: center;
+    margin-right: 200px;
+    margin-left: -300px;
+    box-shadow: blueviolet;
+    font-size: larger;
+    
+
+}
+.bi{
+    color: blueviolet;
+    width: 500px;
+}
+.card-body{
+    background-color: rgb(250, 250, 255);
+    border: 50px;
+    padding: 50px;
+
+}
+.card{
+    position: relative;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.cardi:hover{
+    
+    padding: 10px;
+}
+#cara{
+    background-color: rgb(235, 247, 247);
+    width: 45%;
+    height: 70%;
+    margin-left: 50px;
+    border-radius: 80px;
+    margin-top: 10px;
+}
+.card-body b{
+    color: blueviolet;
+}
+#bbb{
+text-decoration: none;
+border-color: blueviolet;
+    border: px;
+    border-radius: 50px;
+}
+#b{
+    background-color: blueviolet;
+}
+.card:hover{
+    color: blueviolet;
+
+}
+.card1{
+    position: relative;
+    margin-left: 400px;
+    margin-bottom: 100px;
+    margin-top: -600px;
+    border: 5px;
+    border-radius: 
+    
+    
+}
+.card1:hover{
+    color: blueviolet;
+}
+
+.card2{
+    position: relative;
+    margin-left: 790px;
+    margin-bottom: 100px;
+    margin-top: -680px;
+    border: 5px;
+    border-radius: 
+    
+}
+.card1:hover{
+    color: blueviolet;
+}
+#bbt{
+    background-color: rgb(4, 0, 255);
+    width: 350px;
+    height: 100px;
+    margin-top: -200px;
+    margin-left: 590px;
+    
+
+}
+.pic{
+    display: flex;
+}
+#b1{
+    text-decoration: none;
+    color: blueviolet;
+    border-radius:50px ;
+    font-size: xx-large;
+    border: 5px;
+    padding: 5px;
+    width: 300px;
+}
+.mt{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+
+
+
